@@ -194,7 +194,7 @@ class EventEngine:
                             
                             session.add(event)
                             session.commit()
-                            session.refresh(event)
+                            session.refresh(event)      
                     
     
 

@@ -10,7 +10,6 @@ env/
 *.sqlite3
 *.log
 .ipynb_checkpoints/
-models/
 weights/
 checkpoints/
 .DS_Store
